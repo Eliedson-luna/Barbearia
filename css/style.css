@@ -56,7 +56,7 @@ nav a:hover {
 }
 
 .produtos li:active {
-	border-color: #088C19;	
+	border-color: rgb(245,245,245);	
 }
 
 .produtos li:hover h2 {
